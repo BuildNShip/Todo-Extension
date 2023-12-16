@@ -25,11 +25,13 @@ In a first-of-its-kind approach, every line of code, every design decision, and 
 - **Complete a Task**: Click to strike it off.
 - **Stay Organized**: Your to-do list, now part of your browser, is always at hand.
 
-## Dive Into the Future
-This project is more than a utility – it's a glimpse into the future of AI-assisted development. It's a proof of concept that shows how AI can play a pivotal role in building functional, elegant software.
+## How to Contribute
 
-### Note
-This is a demonstration project. Further customization may be required for personal use.
+We warmly welcome contributions to the ChatGPT-Powered Chrome To-Do List Extension! Whether it's reporting a bug, proposing a new feature, or contributing code, your involvement is greatly appreciated.
+
+For detailed instructions on how to contribute, please refer to our [CONTRIBUTE.md](CONTRIBUTE.md) file. It contains all the necessary information about the contribution process, including how to set up your development environment, submit pull requests, and adhere to our community guidelines.
+
+Your contributions help make this project even better and are sincerely valued. Let's build something amazing together!
 
 ## License
 This project is released under the [MIT License](LICENSE).
